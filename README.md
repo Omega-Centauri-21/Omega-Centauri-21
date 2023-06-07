@@ -15,11 +15,11 @@ An enthusiastic AI student and also a CTF player!
 <br>
 └──╼ #cat about_me.txt</b>
 <br>
-- 🔭 I’m currently working on my <b><a href="https://github.com/Omega-Centauri-21/Discord_bot">Discord Bot</a><b> and also my upcomming <b><a href="/Omega-Centauri-21@github.io/">blog</a><b> 
+- 🔭 I’m currently working on <b><a href="https://github.com/Omega-Centauri-21/">AI Friend</a><b> and also my upcomming <b><a href="/Omega-Centauri-21@github.io/">blog</a><b> 
 <br>
  - 🌱 I’m currently studying <b>Artificial Intelligence and Data Science</b>
 <br>
- - 🤔 I’m looking for help with my <b><a href="https://github.com/Omega-Centauri-21/Discord_bot">Discord Bot</a><b>
+ - 🤔 I’m looking for help with my <b><a href="https://github.com/Omega-Centauri-21/">Wireless Network Security and Cracking</a><b>
  <br>
  - ⚡ Things I like to do: Learn how things work, open them up (usually codes or old electronics). Oh! and in my free time I watch movies 🎬🍿 
 <br>
