@@ -8,7 +8,7 @@
 <br>
 └──╼ #whoami</b>
 <br>
-An enthusiastic AI student and also a CTF player!
+An enthusiastic AI and Data Science student and also a CTF player!
 <br>
 <br>
 <b>┌─[Omega@kali]─[/home/Omega/personal]
@@ -93,6 +93,15 @@ An enthusiastic AI student and also a CTF player!
       </a>
       <a href="https://www.jetbrains.com/pycharm/" target="_blank"> 
         <img src="https://iconape.com/wp-content/files/pd/89252/png/pycharm-1.png" alt="PyCharm" width="40" height="40"/> 
+      </a>
+     <a href="https://plotly.com/python/" target="_blank"> 
+        <img src="https://avatars.githubusercontent.com/u/5997976?v=4&s=160" alt="Plotly" width="40" height="40"/> 
+      </a>
+     <a href="https://pandas.pydata.org/" target="_blank"> 
+        <img src="https://pandas.pydata.org/" alt="Pandas" width="40" height="40"/> 
+      </a>
+     <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank"> 
+        <img src="https://assets-eu-01.kc-usercontent.com/2fe34236-f012-013e-0792-c742810b83e3/aedb7b5e-8556-4840-a69c-bce396891b0e/sonar-logo-horizontal-dark-bg.svg?w=170&h=42&auto=format&fit=crop" alt="SonarQube" width="40" height="40"/> 
       </a>
     </td>
     <td>
